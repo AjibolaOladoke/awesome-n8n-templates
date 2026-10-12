@@ -25,3 +25,11 @@ Compiled and maintained from upstream [enescingoz/awesome-n8n-templates](https:/
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
