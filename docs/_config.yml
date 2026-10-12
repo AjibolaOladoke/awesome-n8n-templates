@@ -1,0 +1,38 @@
+title: "Awesome n8n Templates"
+description: "A curated collection of 280+ n8n automation workflow template files. AI agents, RAG chatbots, email automation, social media, DevOps, and more."
+url: ""
+baseurl: "/awesome-n8n-templates"
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+author:
+  name: "Enes Cingoz"
+  url: ""
+
+github:
+  repository_url: ""
+
+social:
+  name: "Enes Cingoz"
+  links:
+    - ""
+
+twitter:
+  card: "summary_large_image"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      image: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
